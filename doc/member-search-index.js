@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"guillermoFeito","c":"CalculosMatematicos","l":"CalculosMatematicos()","u":"%3Cinit%3E()"},{"p":"guillermoFeito","c":"CalculosMatematicos","l":"calculosRefactorizados(int)"}];updateSearchResults();
